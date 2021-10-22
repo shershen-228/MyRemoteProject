@@ -17,3 +17,7 @@ double MyDiv(double a, double b)
 {
 return a / b;
 }
+double MyTest(double a, double b)
+{
+	return a;
+}
